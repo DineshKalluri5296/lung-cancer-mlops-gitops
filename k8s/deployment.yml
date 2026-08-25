@@ -25,7 +25,7 @@ spec:
 
         - name: lung-cancer-app
 
-          image: 821656895219.dkr.ecr.ap-south-1.amazonaws.com/lung-cancer-mlops:latest
+          image: 821656895219.dkr.ecr.ap-south-1.amazonaws.com/lung-cancer-mlops:logistic_regression-a8e330b
 
           imagePullPolicy: Always
 
